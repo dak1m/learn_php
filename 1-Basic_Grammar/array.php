@@ -28,9 +28,9 @@ unset($fruits); # $fruits 变为null
 
 # 动态类型
 $book = [
-    'Laravel精品课',
-    '学院君',
-    2020,
+    'MrSnake',
+    'Dakim',
+    2023,
     99.0,
     false
 ];
